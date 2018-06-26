@@ -211,6 +211,8 @@ To enable the swap you can use for example:
 ```
 You can make a permanent swap file following this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04).
 
+This error can also occur with Xdebug enabled. 
+
 ## Degraded Mode
 
 Due to some intermittent issues on Travis and other systems, we introduced a
